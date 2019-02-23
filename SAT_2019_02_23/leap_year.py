@@ -10,7 +10,7 @@ class LeapYear:
             try:
                 self.statement[self.option](int(input("Enter a year: ")))
             except KeyError as error:
-                print("Please insert 1 or 2 only.")
+                print("Please insert 1:[A.D.] or 2:[B.E.]: only.")
 
 
     def buddhist_era(self, input_year):
