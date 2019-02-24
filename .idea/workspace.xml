@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3dc15e-3a8a-4809-a0ba-fc7ceae7c7e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SAT_2019_02_23/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAT_2019_02_23/detect_screen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,26 +17,45 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_daily$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1550954890775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$count_word.coverage" NAME="count_word Coverage Results" MODIFIED="1550957138388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1550957961953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$random_number.coverage" NAME="random_number Coverage Results" MODIFIED="1550946001951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$count_string.coverage" NAME="count_string Coverage Results" MODIFIED="1550951322708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$_playground.coverage" NAME="_playground Coverage Results" MODIFIED="1550958428025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$__playground.coverage" NAME="__playground Coverage Results" MODIFIED="1550962865505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
     <SUITE FILE_PATH="coverage/python_daily$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1550953719822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$net_speedtest.coverage" NAME="net-speedtest Coverage Results" MODIFIED="1550968258897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="count_and_reverse_word.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py">
+      <file leaf-file-name="net-speedtest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/text.txt">
+      <file leaf-file-name="github_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/github_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__playground.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -63,6 +83,10 @@
         <option value="$PROJECT_DIR$/SAT_2019_02_23/count_word.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/text.txt" />
+        <option value="$PROJECT_DIR$/SAT_2019_02_23/Factorial.py" />
+        <option value="$PROJECT_DIR$/SAT_2019_02_23/_playground.py" />
+        <option value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" />
+        <option value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py" />
       </list>
     </option>
   </component>
@@ -77,7 +101,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="12" />
-    <option name="y" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="989" />
   </component>
@@ -101,6 +125,17 @@
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
               <item name="SAT_2019_02_23" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+              <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+              <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
+              <item name="BEGIN_NETWORK" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,8 +162,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count_word">
-    <configuration name="count_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.net-speedtest">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +176,45 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/count_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="__playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SAT_2019_02_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/detect_screen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +239,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="net-speedtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,69 +247,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SAT_2019_02_23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/fibonacci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="leap_year" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SAT_2019_02_23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/leap_year.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="random_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SAT_2019_02_23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SAT_2019_02_23/random_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.random_number" />
-      <item itemvalue="Python.count_string" />
-      <item itemvalue="Python.leap_year" />
-      <item itemvalue="Python.fibonacci" />
       <item itemvalue="Python.count_word" />
+      <item itemvalue="Python.Factorial" />
+      <item itemvalue="Python._playground" />
+      <item itemvalue="Python.net-speedtest" />
+      <item itemvalue="Python.__playground" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.net-speedtest" />
+        <item itemvalue="Python.__playground" />
+        <item itemvalue="Python._playground" />
+        <item itemvalue="Python.Factorial" />
         <item itemvalue="Python.count_word" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.leap_year" />
-        <item itemvalue="Python.count_string" />
-        <item itemvalue="Python.random_number" />
       </list>
     </recent_temporary>
   </component>
@@ -293,11 +328,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550954917065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Count Word and Reverse word order.">
+      <created>1550957220882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550957220882</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Factorial.">
+      <created>1550958137676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550958137676</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="989" extended-state="6" />
+    <frame x="1" y="22" width="1680" height="989" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -336,20 +385,15 @@
     <MESSAGE value="Count Character." />
     <MESSAGE value="Leap Year." />
     <MESSAGE value="Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
+    <MESSAGE value="Count Word and Reverse word order." />
+    <MESSAGE value="Factorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/leap_year.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -367,27 +411,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/Factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/detect_screen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1502778602/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="499" column="4" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/github_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="315">
+          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py">
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
