@@ -4,11 +4,15 @@ import time
 
 class NetworkSpeedtest:
 
-    def __init__(self):
+    def __init__(self,  server=None):
         print("Speedtest on", time.strftime("%a, %d %b %Y %H:%M:%S"))
-        self.servers = []
+        if server == None:
+            self.servers = []
+        else:
+            self.servers = [server]
         self.speedtest_work()
         self.get_output()
+        self.extend()
 
     def speedtest_work(self):
         client = speedtest.Speedtest()
@@ -20,7 +24,7 @@ class NetworkSpeedtest:
         self.result = client.results
 
     def convert_bps_to_mbps(self, bps):
-        return bps // 1048576
+        return round(bps / 1048576, 2)
 
     def convert_byte_to_megabyte(self, byte):
         return byte // 1048576
@@ -42,5 +46,10 @@ class NetworkSpeedtest:
             country=self.result.server['country'], sponsor=self.result.server['sponsor'],
             host=self.result.server['host']))
 
+    def extend(self):
+        # print(self.result.csv_header('|'))
+        # print(self.result.csv('|'))
+        print(self.result.json(pretty=True))
 
-test = NetworkSpeedtest()
+
+test = NetworkSpeedtest(server=8990)
