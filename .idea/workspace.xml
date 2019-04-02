@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3dc15e-3a8a-4809-a0ba-fc7ceae7c7e0" name="Default" comment="Check level of Password.">
-      <change afterPath="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/password_checker.py" afterDir="false" />
+    <list default="true" id="7a3dc15e-3a8a-4809-a0ba-fc7ceae7c7e0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/program/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program/db.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/indexOf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/replace_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,44 +21,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_daily$indexOf.coverage" NAME="indexOf Coverage Results" MODIFIED="1554223876754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
+    <SUITE FILE_PATH="coverage/python_daily$Model.coverage" NAME="Model Coverage Results" MODIFIED="1554228148074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc-simple" />
+    <SUITE FILE_PATH="coverage/python_daily$Model__1_.coverage" NAME="Model (1) Coverage Results" MODIFIED="1554229332589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+    <SUITE FILE_PATH="coverage/python_daily$_playground.coverage" NAME="_playground Coverage Results" MODIFIED="1550958428025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$password_generator.coverage" NAME="password_generator Coverage Results" MODIFIED="1551012754872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
+    <SUITE FILE_PATH="coverage/python_daily$controller.coverage" NAME="controller Coverage Results" MODIFIED="1554230320457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/program" />
     <SUITE FILE_PATH="coverage/python_daily$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1550954890775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
-    <SUITE FILE_PATH="coverage/python_daily$count_word.coverage" NAME="count_word Coverage Results" MODIFIED="1550957138388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$decode_webpage.coverage" NAME="decode_webpage Coverage Results" MODIFIED="1551016488483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
+    <SUITE FILE_PATH="coverage/python_daily$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1554225757519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$view.coverage" NAME="view Coverage Results" MODIFIED="1554229686187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/program" />
+    <SUITE FILE_PATH="coverage/python_daily$Slice.coverage" NAME="Slice Coverage Results" MODIFIED="1554223299620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
+    <SUITE FILE_PATH="coverage/python_daily$replace_word.coverage" NAME="replace_word Coverage Results" MODIFIED="1554224377457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
+    <SUITE FILE_PATH="coverage/python_daily$count_string.coverage" NAME="count_string Coverage Results" MODIFIED="1550951322708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$__playground.coverage" NAME="__playground Coverage Results" MODIFIED="1551018149023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+    <SUITE FILE_PATH="coverage/python_daily$Controller__1_.coverage" NAME="Controller (1) Coverage Results" MODIFIED="1554229424329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+    <SUITE FILE_PATH="coverage/python_daily$net_speedtest.coverage" NAME="net-speedtest Coverage Results" MODIFIED="1550969433945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+    <SUITE FILE_PATH="coverage/python_daily$model.coverage" NAME="model Coverage Results" MODIFIED="1554230417266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/program" />
+    <SUITE FILE_PATH="coverage/python_daily$view__1_.coverage" NAME="view (1) Coverage Results" MODIFIED="1554229276887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+    <SUITE FILE_PATH="coverage/python_daily$count_word.coverage" NAME="count_word Coverage Results" MODIFIED="1550957138388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
+    <SUITE FILE_PATH="coverage/python_daily$simple_socket.coverage" NAME="simple-socket Coverage Results" MODIFIED="1551028419363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+    <SUITE FILE_PATH="coverage/python_daily$sort_max_min.coverage" NAME="sort_max_min Coverage Results" MODIFIED="1554225297399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
     <SUITE FILE_PATH="coverage/python_daily$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1550957961953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$random_number.coverage" NAME="random_number Coverage Results" MODIFIED="1550946001951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
-    <SUITE FILE_PATH="coverage/python_daily$count_string.coverage" NAME="count_string Coverage Results" MODIFIED="1550951322708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
-    <SUITE FILE_PATH="coverage/python_daily$_playground.coverage" NAME="_playground Coverage Results" MODIFIED="1550958428025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
-    <SUITE FILE_PATH="coverage/python_daily$__playground.coverage" NAME="__playground Coverage Results" MODIFIED="1551018149023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
-    <SUITE FILE_PATH="coverage/python_daily$password_generator.coverage" NAME="password_generator Coverage Results" MODIFIED="1551012754872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
-    <SUITE FILE_PATH="coverage/python_daily$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1550953719822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
-    <SUITE FILE_PATH="coverage/python_daily$net_speedtest.coverage" NAME="net-speedtest Coverage Results" MODIFIED="1550969433945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+    <SUITE FILE_PATH="coverage/python_daily$Controller.coverage" NAME="Controller Coverage Results" MODIFIED="1554228896435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc-simple" />
     <SUITE FILE_PATH="coverage/python_daily$cowsbulls.coverage" NAME="cowsbulls Coverage Results" MODIFIED="1551018871275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="password_checker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/password_checker.py">
+      <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="92" selection-start-line="18" selection-start-column="92" selection-end-line="18" selection-end-column="92" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cowsbulls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py">
+      <file leaf-file-name="controller.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program/controller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            <state relative-caret-position="285">
+              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__playground.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/db.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -66,6 +97,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,7 +111,6 @@
         <option value="$PROJECT_DIR$/SAT_2019_02_23/github_info.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/random_number.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/count_string.py" />
-        <option value="$PROJECT_DIR$/SAT_2019_02_23/leap_year.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/fibonacci.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/count_word.py" />
         <option value="$PROJECT_DIR$/SAT_2019_02_23/count_and_reverse_word.py" />
@@ -88,6 +123,24 @@
         <option value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/decode_webpage.py" />
         <option value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" />
         <option value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py" />
+        <option value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/simple-socket.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/Slice.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/indexOf.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/replace_word.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py" />
+        <option value="$PROJECT_DIR$/SAT_2019_02_23/leap_year.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc-simple/Model.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc-simple/View.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc-simple/view.py" />
+        <option value="$PROJECT_DIR$/venv/lib/python3.6/site-packages/view.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc-simple/Controller.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/view.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py" />
+        <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py" />
+        <option value="$PROJECT_DIR$/program/model.py" />
+        <option value="$PROJECT_DIR$/program/view.py" />
+        <option value="$PROJECT_DIR$/program/controller.py" />
+        <option value="$PROJECT_DIR$/program/db.txt" />
       </list>
     </option>
   </component>
@@ -101,10 +154,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="26" />
-    <option name="y" value="22" />
+    <option name="x" value="1" />
+    <option name="y" value="47" />
     <option name="width" value="1680" />
-    <option name="height" value="989" />
+    <option name="height" value="987" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,6 +174,11 @@
             <path>
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
@@ -143,6 +201,11 @@
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
               <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
               <item name="DAILY_LOGIC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+              <item name="tue_2019_04_01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,8 +232,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cowsbulls">
-    <configuration name="__playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.model">
+    <configuration name="Controller (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,18 +241,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tue_2019_04_01/mvc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cowsbulls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Model (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,18 +260,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tue_2019_04_01/mvc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decode_webpage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,18 +279,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/decode_webpage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/controller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="net-speedtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,18 +298,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,31 +317,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/password_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/view.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.net-speedtest" />
-      <item itemvalue="Python.__playground" />
-      <item itemvalue="Python.password_generator" />
-      <item itemvalue="Python.decode_webpage" />
-      <item itemvalue="Python.cowsbulls" />
+      <item itemvalue="Python.Controller (1)" />
+      <item itemvalue="Python.Model (1)" />
+      <item itemvalue="Python.controller" />
+      <item itemvalue="Python.model" />
+      <item itemvalue="Python.view" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cowsbulls" />
-        <item itemvalue="Python.__playground" />
-        <item itemvalue="Python.decode_webpage" />
-        <item itemvalue="Python.password_generator" />
-        <item itemvalue="Python.net-speedtest" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.controller" />
+        <item itemvalue="Python.view" />
+        <item itemvalue="Python.Controller (1)" />
+        <item itemvalue="Python.Model (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -363,25 +426,39 @@
       <option name="project" value="LOCAL" />
       <updated>1550969826107</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Cows, Bulls Game.">
+      <created>1551019109858</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551019109859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Introduction socket.">
+      <created>1551033019013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551033019013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="22" width="1680" height="989" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="47" width="1680" height="987" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32896176" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38469946" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32896176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27710843" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10535714" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13630952" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -391,7 +468,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,16 +486,57 @@
     <MESSAGE value="Factorial." />
     <MESSAGE value="Beginning Network Programming.&#10;Speedtest-cli prototype." />
     <MESSAGE value="Extend speedtest information in json and support input server id." />
-    <option name="LAST_COMMIT_MESSAGE" value="Extend speedtest information in json and support input server id." />
+    <MESSAGE value="Cows, Bulls Game." />
+    <MESSAGE value="Introduction socket." />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction socket." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/Slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/indexOf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/replace_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/simple-socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,9 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,24 +554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/leap_year.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/count_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/random_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -496,40 +596,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1502778602/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="499" column="4" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1502778602/builtins.py" />
     <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/net-speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/github_info.py">
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/decode_webpage.py" />
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="72" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/decode_webpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="e#478#493#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -540,17 +619,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/simple-socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC/cowsbulls.py">
+    <entry file="file://$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK/__playground.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/Slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/indexOf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/random_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/github_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAT_2019_02_23/leap_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/replace_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/db.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
