@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Active_Directory/ldap_ad_vm.py" line="9" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a3dc15e-3a8a-4809-a0ba-fc7ceae7c7e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/program/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program/db.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/Slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/indexOf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/replace_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Active_Directory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Active_Directory/authen-ldap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Active_Directory/authen1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Active_Directory/authen2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Active_Directory/ldap_ad_vm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funny-flask/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funny-flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funny-flask/templates/addstudent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funny-flask/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +28,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_daily$indexOf.coverage" NAME="indexOf Coverage Results" MODIFIED="1554223876754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
     <SUITE FILE_PATH="coverage/python_daily$Model.coverage" NAME="Model Coverage Results" MODIFIED="1554228148074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc-simple" />
+    <SUITE FILE_PATH="coverage/python_daily$authen1.coverage" NAME="authen1 Coverage Results" MODIFIED="1556552844833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Active_Directory" />
+    <SUITE FILE_PATH="coverage/python_daily$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1557075971525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funny-flask" />
     <SUITE FILE_PATH="coverage/python_daily$Model__1_.coverage" NAME="Model (1) Coverage Results" MODIFIED="1554229332589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+    <SUITE FILE_PATH="coverage/python_daily$ldap_ad_vm.coverage" NAME="ldap_ad_vm Coverage Results" MODIFIED="1556707391722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Active_Directory" />
     <SUITE FILE_PATH="coverage/python_daily$_playground.coverage" NAME="_playground Coverage Results" MODIFIED="1550958428025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$password_generator.coverage" NAME="password_generator Coverage Results" MODIFIED="1551012754872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
     <SUITE FILE_PATH="coverage/python_daily$controller.coverage" NAME="controller Coverage Results" MODIFIED="1554230320457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/program" />
@@ -33,6 +41,7 @@
     <SUITE FILE_PATH="coverage/python_daily$view.coverage" NAME="view Coverage Results" MODIFIED="1554229686187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/program" />
     <SUITE FILE_PATH="coverage/python_daily$Slice.coverage" NAME="Slice Coverage Results" MODIFIED="1554223299620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
     <SUITE FILE_PATH="coverage/python_daily$replace_word.coverage" NAME="replace_word Coverage Results" MODIFIED="1554224377457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01" />
+    <SUITE FILE_PATH="coverage/python_daily$authen2.coverage" NAME="authen2 Coverage Results" MODIFIED="1556557346113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Active_Directory" />
     <SUITE FILE_PATH="coverage/python_daily$count_string.coverage" NAME="count_string Coverage Results" MODIFIED="1550951322708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$__playground.coverage" NAME="__playground Coverage Results" MODIFIED="1551018149023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/BEGIN_NETWORK" />
     <SUITE FILE_PATH="coverage/python_daily$Controller__1_.coverage" NAME="Controller (1) Coverage Results" MODIFIED="1554229424329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc" />
@@ -45,45 +54,40 @@
     <SUITE FILE_PATH="coverage/python_daily$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1550957961953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$random_number.coverage" NAME="random_number Coverage Results" MODIFIED="1550946001951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAT_2019_02_23" />
     <SUITE FILE_PATH="coverage/python_daily$Controller.coverage" NAME="Controller Coverage Results" MODIFIED="1554228896435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tue_2019_04_01/mvc-simple" />
+    <SUITE FILE_PATH="coverage/python_daily$authen_ldap.coverage" NAME="authen-ldap Coverage Results" MODIFIED="1556707299236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Active_Directory" />
     <SUITE FILE_PATH="coverage/python_daily$cowsbulls.coverage" NAME="cowsbulls Coverage Results" MODIFIED="1551018871275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUN_2019_02_24/DAILY_LOGIC" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program/view.py">
+      <file leaf-file-name="Hello.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/funny-flask/Hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controller.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/program/controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#0#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program/model.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funny-flask/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="358">
+              <caret line="54" column="61" lean-forward="true" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+              <folding>
+                <element signature="e#1479#1486#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program/db.txt">
+      <file leaf-file-name="addstudent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funny-flask/templates/addstudent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -94,6 +98,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -137,10 +142,18 @@
         <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/view.py" />
         <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py" />
         <option value="$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py" />
-        <option value="$PROJECT_DIR$/program/model.py" />
         <option value="$PROJECT_DIR$/program/view.py" />
         <option value="$PROJECT_DIR$/program/controller.py" />
         <option value="$PROJECT_DIR$/program/db.txt" />
+        <option value="$PROJECT_DIR$/program/model.py" />
+        <option value="$PROJECT_DIR$/Active_Directory/authen1.py" />
+        <option value="$PROJECT_DIR$/Active_Directory/authen2.py" />
+        <option value="$PROJECT_DIR$/Active_Directory/authen-ldap.py" />
+        <option value="$PROJECT_DIR$/Active_Directory/ldap_ad_vm.py" />
+        <option value="$PROJECT_DIR$/funny-flask/app.py" />
+        <option value="$PROJECT_DIR$/funny-flask/templates/addstudent.html" />
+        <option value="$PROJECT_DIR$/funny-flask/templates/index.html" />
+        <option value="$PROJECT_DIR$/funny-flask/Hello.py" />
       </list>
     </option>
   </component>
@@ -153,9 +166,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="47" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="987" />
   </component>
@@ -178,34 +190,13 @@
             <path>
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="funny-flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="SAT_2019_02_23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
-              <item name="BEGIN_NETWORK" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="SUN_2019_02_24" type="462c0819:PsiDirectoryNode" />
-              <item name="DAILY_LOGIC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="tue_2019_04_01" type="462c0819:PsiDirectoryNode" />
+              <item name="funny-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,6 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -232,8 +224,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.model">
-    <configuration name="Controller (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Hello">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/python_daily/funny-flask/templates/index.html" />
+    <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,18 +234,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funny-flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funny-flask/Hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Model (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="authen-ldap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,18 +253,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tue_2019_04_01/mvc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Active_Directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Active_Directory/authen-ldap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="authen2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,18 +272,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Active_Directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/controller.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Active_Directory/authen2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ldap_ad_vm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,50 +291,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Active_Directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/view.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Active_Directory/ldap_ad_vm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Controller (1)" />
-      <item itemvalue="Python.Model (1)" />
-      <item itemvalue="Python.controller" />
-      <item itemvalue="Python.model" />
-      <item itemvalue="Python.view" />
+      <item itemvalue="Python.ldap_ad_vm" />
+      <item itemvalue="Python.authen2" />
+      <item itemvalue="Python.authen-ldap" />
+      <item itemvalue="Python.Hello" />
+      <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.model" />
-        <item itemvalue="Python.controller" />
-        <item itemvalue="Python.view" />
-        <item itemvalue="Python.Controller (1)" />
-        <item itemvalue="Python.Model (1)" />
+        <item itemvalue="Python.Hello" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Python.ldap_ad_vm" />
+        <item itemvalue="Python.authen-ldap" />
+        <item itemvalue="Python.authen2" />
       </list>
     </recent_temporary>
   </component>
@@ -440,24 +414,31 @@
       <option name="project" value="LOCAL" />
       <updated>1551033019013</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Test MVC Concept">
+      <created>1554230556989</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554230556989</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="47" width="1680" height="987" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32896176" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27710843" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27710843" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13630952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13571429" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -468,6 +449,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,9 +470,52 @@
     <MESSAGE value="Extend speedtest information in json and support input server id." />
     <MESSAGE value="Cows, Bulls Game." />
     <MESSAGE value="Introduction socket." />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction socket." />
+    <MESSAGE value="Test MVC Concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test MVC Concept" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/program/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tue_2019_04_01/Slice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -668,34 +693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/view.py" />
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Model.py" />
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/view.py" />
+    <entry file="file://$PROJECT_DIR$/tue_2019_04_01/mvc/Controller.py" />
     <entry file="file://$PROJECT_DIR$/tue_2019_04_01/sort_max_min.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -713,6 +714,34 @@
     <entry file="file://$PROJECT_DIR$/program/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/program/db.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Active_Directory/authen1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/program/view.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -720,26 +749,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program/model.py">
+    <entry file="file://$PROJECT_DIR$/Active_Directory/ldap_ad_vm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program/db.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Active_Directory/authen-ldap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Active_Directory/authen2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funny-flask/templates/addstudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funny-flask/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="54" column="61" lean-forward="true" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+          <folding>
+            <element signature="e#1479#1486#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funny-flask/Hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
